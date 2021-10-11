@@ -5,4 +5,4 @@ services:
     container_name: cleex_bot_app
     restart: always
     ports:
-      - 7777:5000
+      - 7778:5000
